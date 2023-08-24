@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AplikasiStoryApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="register_success">Registrasi berhasil!</string>
+    <string name="register_failed">Registrasi gagal, harap coba lagi</string>
+    <string name="email_invalid">Email tidak valid</string>
+    <string name="password_invalid">Minimal 8 karakter</string>
+    <string name="sign_in_success">Masuk berhasil</string>
+    <string name="sign_in_failed">Masuk gagal</string>
+    <string name="avatar">Avatar</string>
+    <string name="user_name">nama user</string>
+    <string name="load_data_failed">Data gagal dimuat</string>
+    <string name="response_failed">Pemanggilan data gagal</string>
+    <string name="description">Deskripsi</string>
+    <string name="logout">Keluar</string>
+    <string name="add_story">tambahkan cerita</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="file_failed_exist">Silahkan masukkan berkas gambar terlebih dahulu</string>
+    <string name="preview_image">preview gambar</string>
+    <string name="description_hint">Tulis deskripsi kamu</string>
+    <string name="upload_success">Postingan berhasil diunggah</string>
+    <string name="permission_denied">Tidak mendapatkan permission</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Peta</string>
+    <string name="retry">Coba lagi</string>
+
+</resources>
